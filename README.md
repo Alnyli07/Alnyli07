@@ -14,6 +14,12 @@ Most of my day-to-day work is private on GitLab, so this profile shows only the 
 
 ### Open source
 
+**Projects I published at Keymate**
+- [keycloak-ambient-authz](https://github.com/Keymate-io/keycloak-ambient-authz): zero-code service authorization on Kubernetes, Keycloak decisions enforced at the Istio Ambient waypoint
+- [keycloak-ambient-authz-uma](https://github.com/Keymate-io/keycloak-ambient-authz-uma): Keycloak UMA ticket token exchange as a Proxy-Wasm PEP for Istio Ambient
+- [keymate-apisix-dpop-plugin](https://github.com/Keymate-io/keymate-apisix-dpop-plugin): RFC 9449 DPoP validation plugin for Apache APISIX
+- [keycloak-runtime-protobuf-schemas-demo](https://github.com/Keymate-io/keycloak-runtime-protobuf-schemas-demo): runtime-mounted Protobuf schemas in Keycloak's embedded Infinispan
+
 **Keycloak**
 - Merged: [#49061](https://github.com/keycloak/keycloak/pull/49061) export custom provider changesets in the manual migration strategy
 - Merged: [#46387](https://github.com/keycloak/keycloak/pull/46387) fix resource selection display in scope-based permission creation
