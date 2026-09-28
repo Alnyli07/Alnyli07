@@ -23,7 +23,8 @@ Most of my day-to-day work is private on GitLab, so this profile shows only the 
 **Keycloak**
 - Merged: [#49061](https://github.com/keycloak/keycloak/pull/49061) export custom provider changesets in the manual migration strategy
 - Merged: [#46387](https://github.com/keycloak/keycloak/pull/46387) fix resource selection display in scope-based permission creation
-- Open: [#51730](https://github.com/keycloak/keycloak/pull/51730) and [#51933](https://github.com/keycloak/keycloak/pull/51933), manual migration fixes for empty databases
+- Merged: [#51730](https://github.com/keycloak/keycloak/pull/51730) create the changelog table in the manual migration export for an empty database
+- Open: [#51933](https://github.com/keycloak/keycloak/pull/51933) honor an explicit migration strategy on an empty database
 
 **Apache APISIX**
 - Open: [#13165](https://github.com/apache/apisix/pull/13165) DPoP plugin for RFC 9449 proof-of-possession tokens
